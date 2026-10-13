@@ -12,15 +12,14 @@ Copy this file to `TEAM.md` in your team repository and complete it before start
 
 | Full name | GitHub username |
 |---|---|
-| Student 1 | @github-user-1 |
-| Student 2 | @github-user-2 |
-| Student 3 | @github-user-3 |
+| Student 1 | @Russell-9 |
+| Student 2 | @kavinthanrasenthiram |
 
 Add a fourth row only if your team has four members.
 
 ## Repository
 
-- Team repository: `esilv-marketpulse-gXX-tYY`
+- Team repository: `esilv-marketpulse-groupe04-RK`
 - Upstream repository: `tawounfouet/esilv-marketpulse`
 
 ## Market choice
